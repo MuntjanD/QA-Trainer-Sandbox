@@ -1,4 +1,11 @@
-# BuggyThreads Co. - QA Trainee Sandbox & Report Evaluator
+
+# BuggyThreads Co. - QA Trainee Sandbox & Report Evaluator (v1.6)
+
+[![Visitors](https://komarev.com/ghpvc/?username=MuntjanD&color=blue&style=flat-square&label=repository+views)](https://github.com/MuntjanD/QA-Trainer-1.4)
+[![GitHub All Releases](https://img.shields.io/github/downloads/MuntjanD/QA-Trainer-1.4/total?style=flat-square&color=success&label=total%20downloads)](https://github.com/MuntjanD/QA-Trainer-1.4/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/MuntjanD/QA-Trainer-1.4?style=flat-square&color=yellow&label=stars)](https://github.com/MuntjanD/QA-Trainer-1.4/stargazers)
+
+A deliberately buggy e-commerce storefront used as a QA practice sandbox...
 
 A deliberately buggy e-commerce storefront used as a QA practice sandbox. The app is designed to help trainees explore UI bugs, validate forms, analyze security issues, and practice writing high-quality bug reports.
 
